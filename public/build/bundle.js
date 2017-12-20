@@ -24486,7 +24486,7 @@ var Home = function (_React$Component) {
                 null,
                 _react2.default.createElement(
                     "section",
-                    { id: "header" },
+                    { id: "header", style: { backgroundImage: 'url(./images/IMG_11222.jpg)' } },
                     _react2.default.createElement(
                         "div",
                         { className: "container" },
@@ -24921,18 +24921,13 @@ exports = module.exports = __webpack_require__(6)(undefined);
 
 
 // module
-exports.push([module.i, ".img-effect:hover {\n  transform: scale(1.06);\n  opacity: 1;\n  transition: transform 0.5s, opacity 0.5s; }\n\n.img-effect {\n  opacity: 0.9;\n  transition: transform 0.5s, opacity 0.5s; }\n\n.h1 {\n  text-transform: uppercase; }\n\n#header {\n  background-image: url(" + __webpack_require__(88) + ");\n  background-position: center;\n  background-size: cover;\n  background-attachment: fixed; }\n\n#header-text {\n  font: 2em Play, Roboto, sans-serif;\n  color: white;\n  text-transform: uppercase;\n  text-shadow: 0 0 40px #330eb2, 2px 2px 5px black;\n  margin-top: -12%; }\n\n#header-text h1 {\n  font-size: 2.4em; }\n\n.fill-viewport {\n  min-height: 100vh; }\n\n#team-foto {\n  height: auto;\n  width: 100%; }\n\n#cars {\n  background-color: #252592; }\n\n.car-img {\n  width: 100%;\n  height: auto;\n  transform: scale(1.03); }\n\n#cars a {\n  color: white; }\n\n#get-involved a {\n  color: black; }\n\n.donate-text {\n  display: block;\n  width: 90%;\n  position: absolute;\n  top: 40%;\n  font-size: 3em;\n  color: white;\n  text-shadow: 0 0 1px black, 2px 2px 1px black;\n  text-transform: uppercase;\n  text-align: center; }\n\n#social-networks {\n  background-color: #252592; }\n\n#social-networks {\n  color: white; }\n", ""]);
+exports.push([module.i, ".img-effect:hover {\n  transform: scale(1.06);\n  opacity: 1;\n  transition: transform 0.5s, opacity 0.5s; }\n\n.img-effect {\n  opacity: 0.9;\n  transition: transform 0.5s, opacity 0.5s; }\n\n.h1 {\n  text-transform: uppercase; }\n\n#header {\n  background-position: center;\n  background-size: cover;\n  background-attachment: fixed; }\n\n#header-text {\n  font: 2em Play, Roboto, sans-serif;\n  color: white;\n  text-transform: uppercase;\n  text-shadow: 0 0 40px #330eb2, 2px 2px 5px black;\n  margin-top: -12%; }\n\n#header-text h1 {\n  font-size: 2.4em; }\n\n.fill-viewport {\n  min-height: 100vh; }\n\n#team-foto {\n  height: auto;\n  width: 100%; }\n\n#cars {\n  background-color: #252592; }\n\n.car-img {\n  width: 100%;\n  height: auto;\n  transform: scale(1.03); }\n\n#cars a {\n  color: white; }\n\n#get-involved a {\n  color: black; }\n\n.donate-text {\n  display: block;\n  width: 90%;\n  position: absolute;\n  top: 40%;\n  font-size: 3em;\n  color: white;\n  text-shadow: 0 0 1px black, 2px 2px 1px black;\n  text-transform: uppercase;\n  text-align: center; }\n\n#social-networks {\n  background-color: #252592; }\n\n#social-networks {\n  color: white; }\n", ""]);
 
 // exports
 
 
 /***/ }),
-/* 88 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "aac13a5113a318cf654914d69bc4fb4d.jpg";
-
-/***/ }),
+/* 88 */,
 /* 89 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -24976,7 +24971,7 @@ var Partners = function (_React$Component) {
                 null,
                 _react2.default.createElement(
                     "section",
-                    { id: "partners-header" },
+                    { id: "partners-header", style: { backgroundImage: "url(../images/partners.png)" } },
                     _react2.default.createElement(
                         "div",
                         { className: "container" },
@@ -25215,18 +25210,13 @@ exports = module.exports = __webpack_require__(6)(undefined);
 
 
 // module
-exports.push([module.i, "#partners-header {\n  background-image: url(" + __webpack_require__(92) + ");\n  background-position: center;\n  background-size: cover;\n  background-attachment: fixed; }\n\n#partners-header-text {\n  font: 2em Play, Roboto, sans-serif;\n  color: white;\n  text-transform: uppercase;\n  text-shadow: 0 0 40px #330eb2, 2px 2px 5px black;\n  margin-top: -12%; }\n\n#partners-header-text h1 {\n  font-size: 2.4em; }\n", ""]);
+exports.push([module.i, "#partners-header {\n  background-position: center;\n  background-size: cover;\n  background-attachment: fixed; }\n\n#partners-header-text {\n  font: 2em Play, Roboto, sans-serif;\n  color: white;\n  text-transform: uppercase;\n  text-shadow: 0 0 40px #330eb2, 2px 2px 5px black;\n  margin-top: -12%; }\n\n#partners-header-text h1 {\n  font-size: 2.4em; }\n", ""]);
 
 // exports
 
 
 /***/ }),
-/* 92 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "3c2e50d12b562cdb250feab7490b8b94.png";
-
-/***/ }),
+/* 92 */,
 /* 93 */
 /***/ (function(module, exports, __webpack_require__) {
 

@@ -5,7 +5,7 @@ class Home extends React.Component {
     render() {
         return(
             <div>
-                <section id="header">
+                <section id="header" style={{backgroundImage: 'url(./images/IMG_11222.jpg)'}}>
                     <div className="container">
                         <div className="row align-items-center fill-viewport">
                             <div className="col-lg-12 text-center">
