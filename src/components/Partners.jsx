@@ -5,7 +5,7 @@ class Partners extends React.Component {
     render() {
         return(
             <div>
-                <section id="partners-header" style={{backgroundImage: 'url("./src/images/partners.png")'}}>
+                <section id="partners-header" style={{backgroundImage: `url('./src/images/partners.png')`}}>
                     <div className="container">
                         <div className="row align-items-center fill-viewport">
                             <div className="col-lg-12 text-center">
