@@ -25,16 +25,16 @@ class Partners extends React.Component {
                             </div>
                         </div>
                         <div className="row align-items-center">
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/logo_motul_cmyk.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/logo.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/Haaslogo.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/3m_logo.jpg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/Diacom.jpg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/kpi_live_logo.png" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/kostal.png" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/logo_thermacut.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/NKMZ.png" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/abicor.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/logo_motul_cmyk.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/logo.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/Haaslogo.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/3m_logo.jpg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/Diacom.jpg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/kpi_live_logo.png" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/kostal.png" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/logo_thermacut.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/NKMZ.png" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/abicor.svg" alt=""/></a></div>
                         </div>
                     </div>
                 </section>
@@ -49,17 +49,17 @@ class Partners extends React.Component {
                         <div className="row align-items-center text-center">
                             <div className="col-md-4 py-5">
                                 <a href="https://1plus1.ua/" target="_blank">
-                                    <img className="img-fluid" src="../src/images/1+1.png" alt=""/>
+                                    <img className="img-fluid" src="./src/images/1+1.png" alt=""/>
                                 </a>
                             </div>
                             <div className="col-md-4 py-5">
                                 <a href="https://www.unian.ua/" target="_blank">
-                                    <img className="img-fluid" src="../src/images/unian.png" alt=""/>
+                                    <img className="img-fluid" src="./src/images/unian.png" alt=""/>
                                 </a>
                             </div>
                             <div className="col-md-4 py-5">
                                 <a href="http://www.pravda.com.ua/" target="_blank">
-                                    <img className="img-fluid" src="../src/images/up-logo_ukr.svg" alt=""/>
+                                    <img className="img-fluid" src="./src/images/up-logo_ukr.svg" alt=""/>
                                 </a>
                             </div>
                            

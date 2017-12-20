@@ -70,17 +70,17 @@ class Season extends React.Component {
                             </div>
                         </div>
                         <div className="row align-items-center">
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/logo_motul_cmyk.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/logo.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/Haaslogo.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/3m_logo.jpg" alt=""/></a></div>
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/Diacom.jpg" alt=""/></a></div>
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/kpi_live_logo.png" alt=""/></a></div>
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/kostal.png" alt=""/></a></div>
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/logo_thermacut.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/NKMZ.png" alt=""/></a></div>
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/fm.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="../src/images/abicor.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/logo_motul_cmyk.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/logo.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/Haaslogo.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/3m_logo.jpg" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/Diacom.jpg" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/kpi_live_logo.png" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/kostal.png" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/logo_thermacut.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/NKMZ.png" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/fm.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2"><a href=""><img className="img-fluid" src="./src/images/abicor.svg" alt=""/></a></div>
                         </div>
                     </div>
                 </section>

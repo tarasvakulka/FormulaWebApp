@@ -49,7 +49,7 @@ class Home extends React.Component {
                                     
                             </div>
                             <div className="col-lg-6 text-center">
-                                    <img className="img-fluid rounded" id="team-foto" src="../src/images/team1.jpg" alt="FS team"/>
+                                    <img className="img-fluid rounded" id="team-foto" src="./src/images/team1.jpg" alt="FS team"/>
                             </div>
                         </div>
                     </div>
@@ -65,19 +65,19 @@ class Home extends React.Component {
                         <div className="row text-center text-white">
                             <div className="col-lg-4">
                                 <a href="#/season/1" onClick={() => window.scrollTo(0,0)}>
-                                    <img className="car-img rounded img-effect mb-3" src="../src/images/first-car-b.jpg" alt=""/>
+                                    <img className="car-img rounded img-effect mb-3" src="./src/images/first-car-b.jpg" alt=""/>
                                     <h2 className="pb-3">Season #1</h2>
                                 </a>
                             </div>
                             <div className="col-lg-4">
                                 <a href="#season/2" onClick={() => window.scrollTo(0,0)}>
-                                    <img className="car-img rounded img-effect mb-3" src="../src/images/second-car.jpg" alt=""/>
+                                    <img className="car-img rounded img-effect mb-3" src="./src/images/second-car.jpg" alt=""/>
                                     <h2 className="pb-3">Season #2</h2>
                                 </a>
                             </div>
                             <div className="col-lg-4" onClick={() => window.scrollTo(0,0)}>
                                 <a href="#season/3">
-                                    <img className="car-img rounded img-effect mb-3" src="../src/images/car_season3.jpg" /*style={{filter: 'invert(1)', height: '81%'}}*/ alt=""/>
+                                    <img className="car-img rounded img-effect mb-3" src="./src/images/car_season3.jpg" /*style={{filter: 'invert(1)', height: '81%'}}*/ alt=""/>
                                     <h2 className="pb-3">Season #3</h2>
                                 </a>
                             </div>
@@ -95,19 +95,19 @@ class Home extends React.Component {
                         <div className="row text-center text-white">
                             <div className="col-lg-4 img-effect">
                                 <a href="https://www.facebook.com/fskpi/" target="_blank">
-                                    <img className="img-fluid rounded mb-3" src="../src/images/donate-boy.png" alt=""/>
+                                    <img className="img-fluid rounded mb-3" src="./src/images/donate-boy.png" alt=""/>
                                     <h2 className="donate-text">Donate pls</h2>
                                 </a>
                             </div>
                             <div className="col-lg-4 img-effect">
                                 <a href="https://www.facebook.com/fskpi/" target="_blank">
-                                    <img className="img-fluid rounded mb-3" src="../src/images/vault-boy1.jpg" alt=""/>
+                                    <img className="img-fluid rounded mb-3" src="./src/images/vault-boy1.jpg" alt=""/>
                                     <h2 className="donate-text">Become a partner</h2>
                                 </a>
                             </div>
                             <div className="col-lg-4 img-effect">
                                 <a href="https://www.facebook.com/fskpi/" target="_blank">
-                                    <img className="img-fluid rounded mb-3" src="../src/images/repairs.jpg" /*style={{filter: 'invert(1)', height: '81%'}}*/ alt=""/>
+                                    <img className="img-fluid rounded mb-3" src="./src/images/repairs.jpg" /*style={{filter: 'invert(1)', height: '81%'}}*/ alt=""/>
                                     <h2 className="donate-text">Join the team</h2>
                                 </a>
                             </div>
@@ -125,17 +125,17 @@ class Home extends React.Component {
                         <div className="row text-center">
                             <div className="col-md-4">
                                 <a href="https://www.youtube.com/channel/UCPhUeYm60qiJSyVkDcmtLFg" target="_blank">
-                                    <img className="img-fluid img-effect mb-3" src="../src/images/youtube.png" alt=""/>
+                                    <img className="img-fluid img-effect mb-3" src="./src/images/youtube.png" alt=""/>
                                 </a>
                             </div>
                             <div className="col-md-4">
                                 <a href="https://www.facebook.com/fskpi/" target="_blank">
-                                    <img className="img-fluid img-effect mb-3" src="../src/images/facebook.png" alt=""/>
+                                    <img className="img-fluid img-effect mb-3" src="./src/images/facebook.png" alt=""/>
                                 </a>
                             </div>
                             <div className="col-md-4">
                                 <a href="https://www.instagram.com/formulakpi/" target="_blank">
-                                    <img className="img-fluid img-effect mb-3" src="../src/images/instagram.png" alt=""/>
+                                    <img className="img-fluid img-effect mb-3" src="./src/images/instagram.png" alt=""/>
                                 </a>
                             </div>
                         </div>
@@ -150,16 +150,16 @@ class Home extends React.Component {
                             </div>
                         </div>
                         <div className="row align-items-center">
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/logo_motul_cmyk.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/logo.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/Haaslogo.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/3m_logo.jpg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/Diacom.jpg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/kpi_live_logo.png" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/kostal.png" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/logo_thermacut.svg" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/NKMZ.png" alt=""/></a></div>
-                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="../src/images/abicor.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/logo_motul_cmyk.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/logo.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/Haaslogo.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/3m_logo.jpg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/Diacom.jpg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/kpi_live_logo.png" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/kostal.png" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/logo_thermacut.svg" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/NKMZ.png" alt=""/></a></div>
+                            <div className="col-4 col-md-2 m-2"><a href=""><img className="img-fluid" src="./src/images/abicor.svg" alt=""/></a></div>
                         </div>
                     </div>
                 </section>

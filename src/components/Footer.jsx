@@ -40,9 +40,9 @@ class Footer extends React.Component {
                             <h5 className="text-center py-2">Contacts</h5>
                             <ul>
                                 <li className="pb-2"> Phone +380 (097) 979 79 79</li>
-                                <li className="pb-2"><img className="pr-2 pb-1" src="../src/images/email_icon.png" alt=""/><a href="mailto:formulakpi@gmail.com" target="_blank">formulakpi@gmail.com</a></li>
-                                <li className="pb-2"><img className="pr-2 pb-1" src="../src/images/instagram_icon.png" alt=""/><a href="https://www.instagram.com/formulakpi/" target="_blank">formulakpi</a></li>
-                                <li className="pb-2"><img className="pr-2 pb-1" src="../src/images/site_icon.png" alt=""/><a href="https://www.facebook.com/pg/fskpi/" target="_blank">@fskpi</a></li>
+                                <li className="pb-2"><img className="pr-2 pb-1" src="./src/images/email_icon.png" alt=""/><a href="mailto:formulakpi@gmail.com" target="_blank">formulakpi@gmail.com</a></li>
+                                <li className="pb-2"><img className="pr-2 pb-1" src="./src/images/instagram_icon.png" alt=""/><a href="https://www.instagram.com/formulakpi/" target="_blank">formulakpi</a></li>
+                                <li className="pb-2"><img className="pr-2 pb-1" src="./src/images/site_icon.png" alt=""/><a href="https://www.facebook.com/pg/fskpi/" target="_blank">@fskpi</a></li>
                                 <li className="pb-2"><a className="btn btn-outline-light my-2 my-sm-0"  href="https://www.facebook.com/fskpi/" target="_blank">Join the team</a></li>
                             </ul>
                         </div>
