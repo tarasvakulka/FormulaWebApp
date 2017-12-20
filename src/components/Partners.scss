@@ -1,0 +1,19 @@
+@import "../styles/palette.scss"; 
+
+#partners-header {
+    background-image: url(../images/partners.png);
+    background-position: center;
+    background-size: cover;
+
+    background-attachment: fixed;
+}
+#partners-header-text {
+    font: 2em Play, Roboto, sans-serif;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 0 0 40px #330eb2, 2px 2px 5px black;
+    margin-top: -12%;
+}
+#partners-header-text h1 {
+    font-size: 2.4em;
+}

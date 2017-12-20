@@ -1,0 +1,20 @@
+@import "../styles/palette.scss";
+footer {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    background-color: $dark_blue;
+    color: #e0e0e0;
+}
+footer a {
+    color: #e0e0e0;
+}
+footer ul {
+    margin: 0;
+}
+.footer-list {
+    border-left: 1px dotted #e0e0e0;
+    padding-left: 0.5em;
+    margin: 0.1em 0 0.1em 0.5em;
+
+}

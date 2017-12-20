@@ -39,7 +39,7 @@ module.exports = {
                 use: ["url-loader?limit=10000&mimetype=image/png"]
             },
             {
-                test: /\.svg/,
+                test: /\.svg$/,
                 use: ["url-loader?limit=26000&mimetype=image/svg+xml"]
             }
 

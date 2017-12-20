@@ -1,0 +1,26 @@
+@import "../styles/palette.scss";
+
+.navbar-nav > li {
+    font-family: Play, sans;
+    text-transform: uppercase;
+}
+.navbar-brand > img {
+    height: 40px;
+}
+.navbar {
+    padding: 0rem 1rem;
+}
+.navbar-inverse {
+    background-color: $dark_blue;
+}
+.dropdown-menu {
+    background-color: $light_blue;
+    font-size: 0.8em;
+}
+
+.dropdown-menu > a {
+    color: $light_text;
+}
+
+
+

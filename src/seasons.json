@@ -1,0 +1,29 @@
+[
+    {
+        "id": "2014-2015",
+        "imgMain": "../src/images/first-car.jpg",
+        "descripton": "Season 2014-2015 it's the best season in the world. Formula Student is a student engineering competition held annually in the UK. Student teams from around the world design, build and race a small-scale formula style racing car. The cars are judged on a number of criteria as listed below. It is run by the Institution of Mechanical Engineers and uses the same rules as the original Formula SAE with supplementary regulations. ",
+        "imgDescription": "../src/images/first-car-c.jpg",
+        "videoFirst": "https://www.youtube.com/embed/7wVmXUKqaAI?rel=0",
+        "videoSecond": "https://www.youtube.com/embed/QJjo9TJwF38?rel=0"
+
+    },
+
+    {
+        "id": "2016-2017",
+        "imgMain": "../src/images/season2.jpg",
+        "descripton": "Season 2015-2016 it's the best season in the world. Formula Student is a student engineering competition held annually in the UK. Student teams from around the world design, build and race a small-scale formula style racing car. The cars are judged on a number of criteria as listed below. It is run by the Institution of Mechanical Engineers and uses the same rules as the original Formula SAE with supplementary regulations. ",
+        "imgDescription": "../src/images/second-car.jpg",
+        "videoFirst": "https://www.youtube.com/embed/JnmISj2Tg-4?rel=0",
+        "videoSecond": "https://www.youtube.com/embed/tiLXkqKwDgI?rel=0"
+    },
+
+    {
+        "id": "2017-2018",
+        "imgMain": "../src/images/car_season3.jpg",
+        "descripton": "Season 2017-2018 it's the best season in the world. Formula Student is a student engineering competition held annually in the UK. Student teams from around the world design, build and race a small-scale formula style racing car. The cars are judged on a number of criteria as listed below. It is run by the Institution of Mechanical Engineers and uses the same rules as the original Formula SAE with supplementary regulations. ",
+        "imgDescription": "../src/images/car3.jpg",
+        "videoFirst": "https://www.youtube.com/embed/zKbS2kI4Q8w?rel=0",
+        "videoSecond": "https://www.youtube.com/embed/Y3pQEQCZLsw?rel=0"
+    }
+]

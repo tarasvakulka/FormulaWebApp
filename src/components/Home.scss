@@ -1,0 +1,79 @@
+@import "../styles/palette.scss";
+//general
+.img-effect:hover {
+    transform: scale(1.06);
+    opacity: 1;
+    transition: transform 0.5s, opacity 0.5s;
+}
+.img-effect  {
+    opacity: 0.9;
+    transition: transform 0.5s, opacity 0.5s;
+}
+.h1 {
+    text-transform: uppercase;
+}
+
+//header
+#header {
+    background-image: url(../images/IMG_11222.jpg);
+    background-position: center;
+    background-size: cover;
+
+    background-attachment: fixed;
+}
+#header-text {
+    font: 2em Play, Roboto, sans-serif;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 0 0 40px #330eb2, 2px 2px 5px black;
+    margin-top: -12%;
+}
+#header-text h1 {
+    font-size: 2.4em;
+}
+.fill-viewport {
+    min-height: 100vh;
+}
+//about
+#team-foto {
+    height: auto;
+    width: 100%;
+}
+
+//cars
+#cars {
+    background-color: $light_blue;
+}
+.car-img {
+    width: 100%;
+    height: auto;
+    transform: scale(1.03);
+}
+#cars a {
+    color: white;
+    
+}
+//get-involved
+#get-involved a {
+    color: black;
+}
+.donate-text {
+    display: block;
+    width: 90%;
+    position: absolute;
+    top: 40%;
+    font-size: 3em;
+    color: white;
+    text-shadow: 0 0 1px black, 2px 2px 1px black;
+    text-transform: uppercase;
+    text-align: center;
+}
+//social-network
+#social-networks {
+    background-color: $light_blue;
+}
+#social-networks {
+    color: white;
+}
+
+
