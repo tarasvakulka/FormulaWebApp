@@ -3,10 +3,9 @@ import "./Partners.scss";
 
 class Partners extends React.Component {
     render() {
-        const path = "./src/images/partners.png";
         return(
             <div>
-                <section id="partners-header" style={{backgroundImage:  `url('${path}')`}}>
+                <section id="partners-header" style={{backgroundImage:  "url('./src/images/partners.png')"}}>
                     <div className="container">
                         <div className="row align-items-center fill-viewport">
                             <div className="col-lg-12 text-center">

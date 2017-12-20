@@ -3,10 +3,9 @@ import "./Home.scss";
 
 class Home extends React.Component {
     render() {
-        const pathHome = "./src/images/IMG_11222.jpg";
         return(
             <div>
-                <section id="header" style={{backgroundImage: `url('${pathHome}')`}}>
+                <section id="header" style={{backgroundImage: "url('./src/images/IMG_11222.jpg')"}}>
                     <div className="container">
                         <div className="row align-items-center fill-viewport">
                             <div className="col-lg-12 text-center">

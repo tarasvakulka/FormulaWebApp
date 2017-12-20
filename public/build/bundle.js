@@ -20170,19 +20170,19 @@ var _Home = __webpack_require__(85);
 
 var _Home2 = _interopRequireDefault(_Home);
 
-var _Partners = __webpack_require__(89);
+var _Partners = __webpack_require__(88);
 
 var _Partners2 = _interopRequireDefault(_Partners);
 
-var _Contacts = __webpack_require__(93);
+var _Contacts = __webpack_require__(91);
 
 var _Contacts2 = _interopRequireDefault(_Contacts);
 
-var _Season = __webpack_require__(96);
+var _Season = __webpack_require__(94);
 
 var _Season2 = _interopRequireDefault(_Season);
 
-__webpack_require__(100);
+__webpack_require__(98);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -24486,7 +24486,7 @@ var Home = function (_React$Component) {
                 null,
                 _react2.default.createElement(
                     "section",
-                    { id: "header", style: { backgroundImage: 'url(./images/IMG_11222.jpg)' } },
+                    { id: "header", style: { backgroundImage: "url('./src/images/IMG_11222.jpg')" } },
                     _react2.default.createElement(
                         "div",
                         { className: "container" },
@@ -24927,8 +24927,7 @@ exports.push([module.i, ".img-effect:hover {\n  transform: scale(1.06);\n  opaci
 
 
 /***/ }),
-/* 88 */,
-/* 89 */
+/* 88 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -24944,7 +24943,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-__webpack_require__(90);
+__webpack_require__(89);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -24971,7 +24970,7 @@ var Partners = function (_React$Component) {
                 null,
                 _react2.default.createElement(
                     "section",
-                    { id: "partners-header", style: { backgroundImage: "url(../images/partners.png)" } },
+                    { id: "partners-header", style: { backgroundImage: "url('./src/images/partners.png')" } },
                     _react2.default.createElement(
                         "div",
                         { className: "container" },
@@ -25171,13 +25170,13 @@ var Partners = function (_React$Component) {
 exports.default = Partners;
 
 /***/ }),
-/* 90 */
+/* 89 */
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(91);
+var content = __webpack_require__(90);
 if(typeof content === 'string') content = [[module.i, content, '']];
 // Prepare cssTransformation
 var transform;
@@ -25202,7 +25201,7 @@ if(false) {
 }
 
 /***/ }),
-/* 91 */
+/* 90 */
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(6)(undefined);
@@ -25216,8 +25215,7 @@ exports.push([module.i, "#partners-header {\n  background-position: center;\n  b
 
 
 /***/ }),
-/* 92 */,
-/* 93 */
+/* 91 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25233,7 +25231,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-__webpack_require__(94);
+__webpack_require__(92);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -25345,13 +25343,13 @@ var Contacts = function (_React$Component) {
 exports.default = Contacts;
 
 /***/ }),
-/* 94 */
+/* 92 */
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(95);
+var content = __webpack_require__(93);
 if(typeof content === 'string') content = [[module.i, content, '']];
 // Prepare cssTransformation
 var transform;
@@ -25376,7 +25374,7 @@ if(false) {
 }
 
 /***/ }),
-/* 95 */
+/* 93 */
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(6)(undefined);
@@ -25390,7 +25388,7 @@ exports.push([module.i, "#contacts .fill {\n  height: 90vh; }\n\n#contacts a {\n
 
 
 /***/ }),
-/* 96 */
+/* 94 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25406,9 +25404,9 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-__webpack_require__(97);
+__webpack_require__(95);
 
-var _seasons = __webpack_require__(99);
+var _seasons = __webpack_require__(97);
 
 var _seasons2 = _interopRequireDefault(_seasons);
 
@@ -25675,13 +25673,13 @@ var Season = function (_React$Component) {
 exports.default = Season;
 
 /***/ }),
-/* 97 */
+/* 95 */
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(98);
+var content = __webpack_require__(96);
 if(typeof content === 'string') content = [[module.i, content, '']];
 // Prepare cssTransformation
 var transform;
@@ -25706,7 +25704,7 @@ if(false) {
 }
 
 /***/ }),
-/* 98 */
+/* 96 */
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(6)(undefined);
@@ -25720,19 +25718,19 @@ exports.push([module.i, "#season-header {\n  background-position: center;\n  bac
 
 
 /***/ }),
-/* 99 */
+/* 97 */
 /***/ (function(module, exports) {
 
 module.exports = [{"id":"2014-2015","imgMain":"./src/images/first-car.jpg","descripton":"Season 2014-2015 it's the best season in the world. Formula Student is a student engineering competition held annually in the UK. Student teams from around the world design, build and race a small-scale formula style racing car. The cars are judged on a number of criteria as listed below. It is run by the Institution of Mechanical Engineers and uses the same rules as the original Formula SAE with supplementary regulations. ","imgDescription":"./src/images/first-car-c.jpg","videoFirst":"https://www.youtube.com/embed/7wVmXUKqaAI?rel=0","videoSecond":"https://www.youtube.com/embed/QJjo9TJwF38?rel=0"},{"id":"2016-2017","imgMain":"./src/images/season2.jpg","descripton":"Season 2015-2016 it's the best season in the world. Formula Student is a student engineering competition held annually in the UK. Student teams from around the world design, build and race a small-scale formula style racing car. The cars are judged on a number of criteria as listed below. It is run by the Institution of Mechanical Engineers and uses the same rules as the original Formula SAE with supplementary regulations. ","imgDescription":"./src/images/second-car.jpg","videoFirst":"https://www.youtube.com/embed/JnmISj2Tg-4?rel=0","videoSecond":"https://www.youtube.com/embed/tiLXkqKwDgI?rel=0"},{"id":"2017-2018","imgMain":"./src/images/car_season3.jpg","descripton":"Season 2017-2018 it's the best season in the world. Formula Student is a student engineering competition held annually in the UK. Student teams from around the world design, build and race a small-scale formula style racing car. The cars are judged on a number of criteria as listed below. It is run by the Institution of Mechanical Engineers and uses the same rules as the original Formula SAE with supplementary regulations. ","imgDescription":"./src/images/car3.jpg","videoFirst":"https://www.youtube.com/embed/zKbS2kI4Q8w?rel=0","videoSecond":"https://www.youtube.com/embed/Y3pQEQCZLsw?rel=0"}]
 
 /***/ }),
-/* 100 */
+/* 98 */
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(101);
+var content = __webpack_require__(99);
 if(typeof content === 'string') content = [[module.i, content, '']];
 // Prepare cssTransformation
 var transform;
@@ -25757,7 +25755,7 @@ if(false) {
 }
 
 /***/ }),
-/* 101 */
+/* 99 */
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(6)(undefined);
